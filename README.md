@@ -11,7 +11,7 @@
 Желательный формат имён входных файлов:
 ГодМесяцДата_blanks_НомерТрека.pdf (Например 180224_blanks_RA123456789CN.pdf)
 
-Для того, чтобы скачивать извещения сразу с таким именем файла, то можно установить UserScript для TamperMonkey  ![rupost_dl_name.user.js](rupost_dl_name.user.js)
+Для того, чтобы скачивать извещения сразу с таким именем файла, то можно установить UserScript для TamperMonkey  [rupost_dl_name.user.js](rupost_dl_name.user.js)
 
 
 
