@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         pochta.ru extend download blanks name
-// @name:ru      Расширение имя скачиваемого извещения с pochta.ru
+// @name:ru      Расширенное имя скачиваемого извещения с pochta.ru
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  blanks.pdf -> YearMonthDate_blanks_TrackNumber.pdf (Example 180224_blanks_RA123456789CN.pdf)
